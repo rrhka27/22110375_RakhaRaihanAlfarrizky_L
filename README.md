@@ -27,4 +27,4 @@ Melihat detail transaksi akhir
 📸 Screenshot Output
 
 🏠 Halaman Daftar Film
-![Index](web/Asset/img/Screenshot_index_1.png)
+![Index](/Screenshot_index_1.png)
