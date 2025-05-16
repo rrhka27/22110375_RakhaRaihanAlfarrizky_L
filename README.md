@@ -27,4 +27,10 @@ Melihat detail transaksi akhir
 📸 Screenshot Output
 
 🏠 Halaman Daftar Film
-![Index](/Screenshot_index_1.png)
+![Index](Screenshot_index_1.png)
+
+📝 Form Pemesanan Tiket
+![Form](Screenshsot-form-2.png)
+
+🎟️ Hasil Transaksi / Struk
+![Struk](Screenshot-struk-1.png)
